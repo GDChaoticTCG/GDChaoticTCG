@@ -15,3 +15,6 @@ At the moment, the only public repository is this one. Due to how incomplete thi
 
 ## Contributing
 [Documents](https://github.com/GDChaoticTCG/Documents/blob/main/README.md) has instructions on how you can contribute to this project. Please refer to that.
+
+## Finally
+Once I have finally opened everything to the public, this repository will contain build tools and other project accoutrements. For now, Server and Client will be built separately.
