@@ -14,4 +14,4 @@ NOTE: This project is *very* much in the early stages and will not be playable f
 At the moment, the only public repository is this one. Due to how incomplete this is, I would like to limit access to contributors. If you would like to contribute, please reach out to me in the [Chaotic Discord](https://discord.gg/chaotic) (username brainard50#3809) and we can talk about it.
 
 ## Contributing
-[Documents](Documents/README.md) has instructions on how you can contribute to this project. Please refer to that.
+[Documents](https://github.com/GDChaoticTCG/Documents/blob/main/README.md) has instructions on how you can contribute to this project. Please refer to that.
