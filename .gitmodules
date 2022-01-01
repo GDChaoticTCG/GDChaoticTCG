@@ -1,0 +1,9 @@
+[submodule "Documents"]
+	path = Documents
+	url = ../Documents.git
+[submodule "Server"]
+	path = Server
+	url = ../Server.git
+[submodule "Client"]
+	path = Client
+	url = ../Client.git
