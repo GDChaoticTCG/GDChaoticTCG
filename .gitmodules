@@ -7,3 +7,6 @@
 [submodule "Client"]
 	path = Client
 	url = ../Client.git
+[submodule "godot"]
+	path = godot
+	url = https://github.com/godotengine/godot.git
